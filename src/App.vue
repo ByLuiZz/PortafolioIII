@@ -215,7 +215,7 @@
             <p class="card-text">En este apartado esta el link para ir al repositorios con las practicas de este computo 
             </p>
             <hr style="height:5px;border:none;color:black;background-color:black;" />
-            <a href= ""
+            <a href= "https://github.com/ByLuiZz/PracticasComputoIII.git"
             class="btn btn-info stretched-link">PRACTICAS</a>
           </div>
         </div>
